@@ -1,5 +1,5 @@
-function add(a, ) {
-  return a + b;
+function add(a, b) {
+  return a + b * a;
 }
 function square(n) {
   return n * n;
